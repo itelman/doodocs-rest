@@ -2,6 +2,10 @@
 
 ## How to run
 
+Use the link: https://doodocs-rest.onrender.com
+
+Or...
+
 1. Clone repo:
 ```shell
 git clone https://github.com/itelman/doodocs-rest
