@@ -5,11 +5,13 @@
 1. Clone repo:
 ```shell
 git clone https://github.com/itelman/doodocs-rest
+```
 
 2. Open repo:
 ```shell
 cd ./doodocs-rest
 ```
+
 3. Run the repo:
 ```shell
 go run .
@@ -62,7 +64,7 @@ go run .
 }
 ```
 
-## 2. Creating zip archive
+### 2. Creating zip archive
 
 - POST /api/archive/files
 - Request:
@@ -89,7 +91,7 @@ go run .
 }
 ```
 
-## Sending files by email
+### Sending files by email
 
 - POST /api/mail/file
 - Request:
