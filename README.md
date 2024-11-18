@@ -91,7 +91,7 @@ go run .
 }
 ```
 
-### Sending files by email
+### 3. Sending files by email
 
 - POST /api/mail/file
 - Request:
